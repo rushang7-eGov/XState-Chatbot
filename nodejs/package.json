@@ -21,6 +21,7 @@
         "moment-timezone": "^0.5.32",
         "node-fetch": "^2.6.1",
         "node-rest-client": "^1.4.4",
+        "pdf-creator-node": "^2.2.2",
         "pg": "^8.4.1",
         "pg-promise": "^10.7.0",
         "request": "^2.88.0",
